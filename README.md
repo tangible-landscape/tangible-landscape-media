@@ -2,7 +2,12 @@
 
 Download and print our logos!
 
-![](tl_logo/tl_logo.png "Logo") ![](tl_system_logo/tl_system_logo.png "Logo")
+Logo          |  System logo
+:-------------------------:|:-------------------------:
+![](tl_logo/tl_logo.png "Logo")  |  ![](tl_system_logo/tl_system_logo.png "Logo")
+
+
+
 
 # License
 
