@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="rendered_diagram_3.svg"
-   inkscape:export-filename="/Users/baharmon/tangible-landscape-media/tl_diagrams/rendered_diagram_1.png"
+   inkscape:export-filename="/Users/Brendan/tangible-landscape-media/tl_diagrams/rendered_diagram_1.png"
    inkscape:export-xdpi="600"
    inkscape:export-ydpi="600">
   <title
@@ -656,15 +656,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.273092"
-     inkscape:cx="38.582819"
-     inkscape:cy="102.82925"
+     inkscape:zoom="2.5933028"
+     inkscape:cx="112.38692"
+     inkscape:cy="154.82189"
      inkscape:document-units="px"
      inkscape:current-layer="layer21"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="963"
-     inkscape:window-x="0"
+     inkscape:window-width="1636"
+     inkscape:window-height="1005"
+     inkscape:window-x="44"
      inkscape:window-y="1"
      inkscape:window-maximized="1"
      showguides="true"
@@ -736,16 +736,16 @@
        id="layer16"
        inkscape:label="system">
       <image
-         sodipodi:absref="/Users/baharmon/tangible-landscape-media/tl_diagrams/sources/tl/tl_standard_with_anna.png"
+         sodipodi:absref="/Users/Brendan/tangible-landscape-media/tl_diagrams/sources/tl/tl_standard_with_anna.png"
          xlink:href="sources/tl/tl_standard_with_anna.png"
-         clip-path="url(#clipPath4838)"
-         y="106.39826"
-         x="26.116547"
-         id="image5781"
-         style="image-rendering:optimizeQuality"
-         preserveAspectRatio="none"
+         width="149.78072"
          height="256.03543"
-         width="149.78072" />
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeQuality"
+         id="image5781"
+         x="26.116547"
+         y="106.39826"
+         clip-path="url(#clipPath4838)" />
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker15842)"
          d="m 100.82665,92.328495 -23.49823,0"
@@ -1402,41 +1402,41 @@
        inkscape:label="system"
        style="display:inline">
       <image
-         sodipodi:absref="/Users/baharmon/tangible-landscape-media/tl_diagrams/sources/tl/tl_standard_front_1.png"
+         sodipodi:absref="/Users/Brendan/tangible-landscape-media/tl_diagrams/sources/tl/tl_standard_front_1.png"
          xlink:href="sources/tl/tl_standard_front_1.png"
-         y="108.62589"
-         x="184.04724"
-         id="image4311"
-         style="display:inline;image-rendering:optimizeQuality"
-         preserveAspectRatio="none"
+         width="320"
          height="240"
-         width="320" />
+         preserveAspectRatio="none"
+         style="display:inline;image-rendering:optimizeQuality"
+         id="image4311"
+         x="184.04724"
+         y="108.62589" />
     </g>
     <g
        inkscape:groupmode="layer"
        id="layer15"
        inkscape:label="figures">
       <image
-         sodipodi:absref="/Users/baharmon/tangible-landscape-media/tl_diagrams/sources/team/vaclav_oculus_side_greyscale_2.png"
+         sodipodi:absref="/Users/Brendan/tangible-landscape-media/tl_diagrams/sources/team/vaclav_oculus_side_greyscale_2.png"
          xlink:href="sources/team/vaclav_oculus_side_greyscale_2.png"
-         width="43.065216"
-         height="195.71913"
-         preserveAspectRatio="none"
-         style="display:inline;image-rendering:optimizeQuality"
-         id="image5370-0"
-         x="-437.41891"
+         transform="scale(-1,1)"
          y="148.90675"
-         transform="scale(-1,1)" />
-      <image
-         sodipodi:absref="/Users/baharmon/tangible-landscape-media/tl_diagrams/sources/team/brendan_side_greyscale_1-1.png"
-         xlink:href="sources/team/brendan_side_greyscale_1-1.png"
-         y="141.73453"
-         x="234.01675"
-         id="image5639"
+         x="-437.41891"
+         id="image5370-0"
          style="display:inline;image-rendering:optimizeQuality"
          preserveAspectRatio="none"
+         height="195.71913"
+         width="43.065216" />
+      <image
+         sodipodi:absref="/Users/Brendan/tangible-landscape-media/tl_diagrams/sources/team/brendan_side_greyscale_1-1.png"
+         xlink:href="sources/team/brendan_side_greyscale_1-1.png"
+         width="94.401695"
          height="205.38525"
-         width="94.401695" />
+         preserveAspectRatio="none"
+         style="display:inline;image-rendering:optimizeQuality"
+         id="image5639"
+         x="234.01675"
+         y="141.73453" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -2100,56 +2100,56 @@
      style="display:none"
      transform="translate(-229.73228,-42.216627)">
     <image
-       sodipodi:absref="/Users/baharmon/tangible-landscape-media/tl_diagrams/sources/team/vaclav_front_greyscale.png"
-       xlink:href="sources/team/vaclav_front_greyscale.png"
-       y="315.16071"
-       x="450.03424"
-       id="image4635"
-       style="display:inline;image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
-       height="193.72717"
-       width="91.453201" />
-    <image
-       sodipodi:absref="/Users/baharmon/tangible-landscape-media/tl_diagrams/sources/team/brendan_side_greyscale_2.png"
-       xlink:href="sources/team/brendan_side_greyscale_2.png"
-       y="371.78357"
-       x="233.16406"
-       id="image5163"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
-       height="204.1203"
-       width="72.954109" />
-    <image
-       sodipodi:absref="/Users/baharmon/tangible-landscape-media/tl_diagrams/sources/team/brendan_side_greyscale_1.png"
-       xlink:href="sources/team/brendan_side_greyscale_1.png"
-       y="333.69376"
-       x="132.49606"
-       id="image5292"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
-       height="219.44171"
-       width="89.065964" />
-    <image
-       sodipodi:absref="/Users/baharmon/tangible-landscape-media/tl_diagrams/sources/team/vaclav_oculus_side_greyscale_2.png"
-       xlink:href="sources/team/vaclav_oculus_side_greyscale_2.png"
-       y="329.34821"
-       x="390.87689"
-       id="image5370"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
-       height="190.10674"
-       width="41.830288" />
-    <image
-       sodipodi:absref="/Users/baharmon/tangible-landscape-media/tl_diagrams/sources/team/vaclav_front_greyscale.png"
+       sodipodi:absref="/Users/Brendan/tangible-landscape-media/tl_diagrams/sources/team/vaclav_front_greyscale.png"
        xlink:href="sources/team/vaclav_front_greyscale.png"
        width="91.453201"
        height="193.72717"
        preserveAspectRatio="none"
        style="display:inline;image-rendering:optimizeQuality"
-       id="image4635-5"
-       x="-632.94067"
+       id="image4635"
+       x="450.03424"
+       y="315.16071" />
+    <image
+       sodipodi:absref="/Users/Brendan/tangible-landscape-media/tl_diagrams/sources/team/brendan_side_greyscale_2.png"
+       xlink:href="sources/team/brendan_side_greyscale_2.png"
+       width="72.954109"
+       height="204.1203"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image5163"
+       x="233.16406"
+       y="371.78357" />
+    <image
+       sodipodi:absref="/Users/Brendan/tangible-landscape-media/tl_diagrams/sources/team/brendan_side_greyscale_1.png"
+       xlink:href="sources/team/brendan_side_greyscale_1.png"
+       width="89.065964"
+       height="219.44171"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image5292"
+       x="132.49606"
+       y="333.69376" />
+    <image
+       sodipodi:absref="/Users/Brendan/tangible-landscape-media/tl_diagrams/sources/team/vaclav_oculus_side_greyscale_2.png"
+       xlink:href="sources/team/vaclav_oculus_side_greyscale_2.png"
+       width="41.830288"
+       height="190.10674"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image5370"
+       x="390.87689"
+       y="329.34821" />
+    <image
+       sodipodi:absref="/Users/Brendan/tangible-landscape-media/tl_diagrams/sources/team/vaclav_front_greyscale.png"
+       xlink:href="sources/team/vaclav_front_greyscale.png"
+       transform="scale(-1,1)"
        y="315.16071"
-       transform="scale(-1,1)" />
+       x="-632.94067"
+       id="image4635-5"
+       style="display:inline;image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="193.72717"
+       width="91.453201" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2177,17 +2177,17 @@
        id="layer5"
        inkscape:label="figure">
       <image
-         sodipodi:absref="/Users/baharmon/tangible-landscape-media/tl_diagrams/sources/team/anna_side_greyscale.png"
+         sodipodi:absref="/Users/Brendan/tangible-landscape-media/tl_diagrams/sources/team/anna_side_greyscale.png"
          xlink:href="sources/team/anna_side_greyscale.png"
-         transform="translate(-20,0)"
-         clip-path="url(#clipPath4817)"
-         y="150.38483"
-         x="523.56818"
-         id="image5483"
-         style="display:inline;filter:url(#filter5910);image-rendering:optimizeQuality"
-         preserveAspectRatio="none"
+         width="69.472847"
          height="202.44238"
-         width="69.472847" />
+         preserveAspectRatio="none"
+         style="display:inline;filter:url(#filter5910);image-rendering:optimizeQuality"
+         id="image5483"
+         x="523.56818"
+         y="150.38483"
+         clip-path="url(#clipPath4817)"
+         transform="translate(-20,0)" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -2195,17 +2195,17 @@
        inkscape:label="system"
        style="opacity:1">
       <image
-         sodipodi:absref="/Users/baharmon/tangible-landscape-media/tl_diagrams/sources/tl/tl_standard_right_1.png"
+         sodipodi:absref="/Users/Brendan/tangible-landscape-media/tl_diagrams/sources/tl/tl_standard_right_1.png"
          xlink:href="sources/tl/tl_standard_right_1.png"
-         transform="translate(-20,0)"
-         y="108.62589"
-         x="469.07062"
-         id="image4405"
-         style="display:inline;image-rendering:optimizeQuality"
-         preserveAspectRatio="none"
-         height="240"
+         clip-path="url(#clipPath18882)"
          width="320"
-         clip-path="url(#clipPath18882)" />
+         height="240"
+         preserveAspectRatio="none"
+         style="display:inline;image-rendering:optimizeQuality"
+         id="image4405"
+         x="469.07062"
+         y="108.62589"
+         transform="translate(-20,0)" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -2213,17 +2213,17 @@
        inkscape:label="overlay"
        style="display:inline;opacity:0.294">
       <image
-         sodipodi:absref="/Users/baharmon/tangible-landscape-media/tl_diagrams/sources/tl/tl_standard_right_2.png"
+         sodipodi:absref="/Users/Brendan/tangible-landscape-media/tl_diagrams/sources/tl/tl_standard_right_2.png"
          xlink:href="sources/tl/tl_standard_right_2.png"
-         transform="translate(-20,0)"
-         y="108.62589"
-         x="469.07062"
-         id="image5993"
-         style="display:inline;opacity:1;image-rendering:optimizeQuality"
-         preserveAspectRatio="none"
-         height="240"
+         clip-path="url(#clipPath18878)"
          width="320"
-         clip-path="url(#clipPath18878)" />
+         height="240"
+         preserveAspectRatio="none"
+         style="display:inline;opacity:1;image-rendering:optimizeQuality"
+         id="image5993"
+         x="469.07062"
+         y="108.62589"
+         transform="translate(-20,0)" />
     </g>
     <g
        inkscape:groupmode="layer"
