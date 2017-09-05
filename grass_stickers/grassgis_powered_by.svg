@@ -9,15 +9,17 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
+   width="19.806335mm"
+   height="30.543295mm"
    id="svg4088"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="grassgis_powered_by.svg"
    inkscape:export-filename="/Users/Brendan/tangible-landscape-media/grass_stickers/grassgis_powered_by_variant_greyscale.png"
-   inkscape:export-xdpi="600"
-   inkscape:export-ydpi="600">
+   inkscape:export-xdpi="900"
+   inkscape:export-ydpi="900">
+  <title
+     id="title4318">GRASS GIS Powered By Logo</title>
   <defs
      id="defs4090" />
   <sodipodi:namedview
@@ -28,8 +30,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.2465748"
-     inkscape:cx="372.04724"
-     inkscape:cy="540.07459"
+     inkscape:cx="-60.019703"
+     inkscape:cy="48.721134"
      inkscape:document-units="px"
      inkscape:current-layer="svg4088"
      showgrid="false"
@@ -37,7 +39,11 @@
      inkscape:window-height="1005"
      inkscape:window-x="45"
      inkscape:window-y="1"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata4093">
     <rdf:RDF>
@@ -46,8 +52,35 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>GRASS GIS Powered By Logo</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>GRASS GIS Development Team</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:contributor>
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -55,7 +88,8 @@
      id="layer4"
      inkscape:label="grass powered by"
      style="display:none"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     transform="translate(-336.95727,-452.78448)">
     <g
        inkscape:label="logo"
        inkscape:groupmode="layer"
@@ -557,7 +591,8 @@
      id="g4376"
      inkscape:groupmode="layer"
      style="display:inline"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     transform="translate(-336.95727,-452.78448)">
     <g
        style="display:none"
        id="g4378"
