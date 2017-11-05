@@ -13,7 +13,8 @@ Logo          |  System logo
 
 The graphics in this repository are under the CC BY-SA 4.0 license.
 
-The fonts used in these graphics are licensed under `SIL Open Font License 1.1 <http://scripts.sil.org/OFL>`_.
+The fonts used in these graphics are licensed under [`SIL Open Font License 1.1`](http://scripts.sil.org/OFL)
+by their respective authors.
 
-Note that many things are linked material or data from different sources which may have different licenses.
+Note that many things are linked material, graphics, or data from different sources which may have different licenses.
 All brand icons are trademarks of their respective owners.
